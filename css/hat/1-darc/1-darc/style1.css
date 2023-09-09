@@ -1,0 +1,48 @@
+body{
+    background-color: aqua;
+}
+.pep1{
+width: 270px;
+height: 480px;
+background-color: beige;
+margin-left:500px ;
+border-radius: 20px 20px 20px 20px;
+}
+#gol1{
+    color: black;
+    padding-left:50px;
+}
+#gol2{
+    padding-left:50px ;
+    margin-top: 40px;
+}
+#gol3{
+    
+  color: blue;
+
+}
+#gol4{
+    color: rgb(0, 8, 255);
+}
+#tor1{
+    width: 200px;
+    height: 30px;
+    background-color: white;
+}
+#gol5{
+    margin-top: 400px;
+    color: rgb(0, 8, 255);
+}
+#tor2{
+    width: 200px;
+    height: 30px;
+    background-color: white;
+}
+#gol6{
+    color: rgb(0, 8, 255);
+}
+#tor3{
+    width: 200px;
+    height: 30px;
+    background-color: white;
+}

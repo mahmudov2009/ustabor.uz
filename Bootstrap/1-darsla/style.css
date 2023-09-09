@@ -1,0 +1,236 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100%;
+    background-color: blueviolet;
+}
+.div1{
+    width: 100%;
+    height: 15vh;
+    background-color:aliceblue;
+}
+
+.div2{
+    width: 100%;
+    height:6vh ;
+    background-color: rgb(32, 32, 32);
+    display: flex;
+    justify-content: space-between;
+}
+#a1{
+    color: aliceblue;
+}
+#a2{
+    color: aliceblue;
+}
+#a3{
+    color: aliceblue;
+}
+.div2_1{
+    width: 5%;
+    background-color: brown;
+
+}
+.div2_2{
+    width:45% ;
+    background-color: blueviolet;
+    display:flex;
+    justify-content: space-around;
+}
+.button1{
+    background-color:aliceblue; 
+}
+.button2{
+    background-color: aliceblue;
+}
+  #button1:hover{
+  background-color: aqua;
+  }
+  #button2:hover{
+background-color: aqua;
+  }
+  #divA1{
+    margin-left: 25px;
+    color: black;
+    }
+    #divA2{
+        margin-left: 25px;
+    color: black;
+    }
+    #divA3{
+        margin-left: 25px;
+    color: black;
+    }
+    #divA4{
+        margin-left: 25px;
+    color: black;
+    }
+    #divA5{
+        margin-left: 25px;
+    color: black;
+    }
+    #divA6{
+        margin-left: 25px;
+    color: black;
+    }
+    #divA1:hover{
+        color: aqua;
+        position: absolute;
+        }
+        #divA2:hover{
+            color: aqua;
+        }
+        #divA3:hover{
+        color: aqua;
+        }
+        #divA4:hover{
+        color: aqua;
+        }
+        #divA5:hover{
+            color: aqua;
+        }
+        #divA6:hover{
+            color: aqua;
+        }
+.div3{
+width:100%;
+height: 20vh;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+background-color: aqua;
+}
+#img1{
+display: inline-flex;
+align-items: center;
+justify-content: start;
+width: 15%;
+margin-left: 190px;
+}
+.div4{
+    width: 100%;
+    height: 18vh;
+    background-color: khaki;
+    display: inline-flex;
+    align-items: center;
+    justify-content: start;
+}
+#input1{
+width: 85%;
+height: 8vh;
+margin-left:40px ;
+}
+#button3{
+    width: 9%;
+    height: 8vh;
+    background-color: blue;
+}
+.div5{
+ width: 100%;
+ height:71vh;
+ border-color:green ;
+ display: inline-flex;
+    align-items: start;
+    justify-content: center;
+}
+.div6{
+    width: 92%;
+    height: 60vh;
+    background-color: brown;
+   display: inline-flex;
+}
+.div7{
+    width: 50%;
+    height: 60vh;
+    background-color: honeydew;
+  display: flex;
+}
+.div8{
+    width: 50%;
+    height: 60vh;
+    background-color: black;
+    display: inline-flex;
+    justify-content: Space-around ;
+    align-items: center;
+}
+.div9{
+    width: 50%;
+    height: 60vh;
+    background-color: aqua;
+}
+.div10{
+    width: 50%;
+    height: 60vh;
+    background-color: hotpink;
+    display:inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.div9>a{
+    margin-top: 60px;
+}
+#img3{
+    width: 46%;
+     height: 50vh;
+}
+#img4{
+    width: 46%;
+    height: 50vh;
+}
+main{
+    width: 100%;
+    height: 500vh;
+    background-color: azure;
+}
+.div11{
+    width:100%;
+    height: 47vh;
+    background-color: chartreuse;
+    display: inline-flex;
+    justify-content: Space-around ;
+    align-items: center;
+}
+.div12{
+  width: 20%;
+  height: 40vh;
+  background-color: blue;
+}
+.div13{
+    width: 20%;
+    height: 40vh;
+    background-color: blue;
+}
+.div14{
+    width: 20%;
+    height: 40vh;
+    background-color: blue;
+}
+.div15{
+    width: 20%;
+    height: 40vh;
+    background-color: blue;
+}
+.div16{
+    width: 100%;
+}
+#img5{
+    width: 100%;
+    height: 40vh;
+}
+#img6{
+    width: 100%;
+    height: 40vh;
+}
+#img7{
+    width: 100%;
+    height: 40vh;
+}
+#img8{
+    width: 100%;
+    height: 40vh;
+}
+                      
+                      

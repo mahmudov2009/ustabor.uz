@@ -1,0 +1,52 @@
+*{
+margin: 0px;
+padding:0px;
+}
+footer {
+width: 20%;
+height: 100vh;
+background-color: black;
+}
+header{
+    width: 80%;
+    height: 100vh;
+ background:  url(https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/hero-bg.jpg);
+ background-size: cover;
+ float: right;
+ background-attachment: fixed;
+}
+main{
+    width: 80%;
+    height: 100vh;
+    background-color: white;
+    float: right;
+}
+.footerdiv1{
+ width: 100%;
+ height: 25vh;
+ text-align: center;
+}
+#footerdivimg1{
+    width: 100px;
+    border-radius: 60%;
+    border: 8px solid #2c2f3f;
+    margin-top: 10px;
+    
+}
+#footera1{
+ color: white;
+ font-size: 20pt;
+ font-weight: bold;
+ text-decoration: none;
+ font-family: "Poppins", sans-serif;
+}
+#footerdiv2{
+    width: 100%;
+    height: 8vh;
+    background-color: aqua;
+    display: inline-block
+}
+
+#footerdiv>ul>li{
+    
+}

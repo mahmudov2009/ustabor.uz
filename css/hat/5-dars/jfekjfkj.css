@@ -1,0 +1,12 @@
+.pabg{
+    background: linear-gradient(45deg, blue, red);
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    box-shadow: -5px -5px 15px black;
+}
+#p1{
+  text-shadow: 5px 5px 10px black;
+  
+}
